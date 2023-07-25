@@ -6,9 +6,9 @@ Ce projet consiste à recoder certaines fonctions de la bibliothèque standard C
 
 Compétences acquises :
 
-Compréhension des fonctions de la bibliothèque standard C et de la manière de les implémenter
-Fonctionnement d’un makefile
-Bonnes pratiques concernant la gestion de la mémoire
+.Compréhension des fonctions de la bibliothèque standard C et de la manière de les implémenter
+.Fonctionnement d’un makefile
+.Bonnes pratiques concernant la gestion de la mémoire
 
 🇬🇧
 
