@@ -4,7 +4,7 @@
 
 Ce projet consiste à recoder certaines fonctions de la bibliothèque standard C, ainsi que d’autres fonctions supplémentaires qui ne font pas partie de la libc, ou qui en font partie mais sous une forme différente.
 
-Le code doit respecter la norme imposée par 42 (voir pdf).
+Le code doit respecter la Norme imposée par 42 (voir pdf).
 
 __Compétences acquises__ :
 
@@ -16,7 +16,7 @@ __Compétences acquises__ :
 
 This project consists of recoding some functions from the standard C library, as well as other additional functions that are not part of the libc, or which are part of it but in a different form.
 
-The code must respect the standard imposed by 42 (see pdf).
+The code must respect the Norm imposed by 42 (see pdf).
 
 __Acquired skills__ :
 
