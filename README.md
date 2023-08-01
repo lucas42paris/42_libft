@@ -12,7 +12,7 @@ __Compétences acquises__ :
 * Fonctionnement d’un Makefile
 * Bonnes pratiques concernant la gestion de la mémoire
 
-🇬🇧
+🇺🇸
 
 This project consists of recoding some functions from the standard C library, as well as other additional functions that are not part of the libc, or which are part of it but in a different form.
 
