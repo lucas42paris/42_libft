@@ -6,11 +6,11 @@ Ce projet consiste à recoder certaines fonctions de la bibliothèque standard C
 
 Le code doit respecter la Norme imposée par 42 (voir pdf).
 
-__Compétences acquises__ :
+__Notions importantes__ :
 
-* Compréhension des fonctions de la bibliothèque standard C et de la manière de les implémenter
-* Fonctionnement d’un Makefile
-* Bonnes pratiques concernant la gestion de la mémoire
+* Compréhension des fonctions de la bibliothèque standard C et de la manière de les implémenter.
+* Fonctionnement d’un Makefile.
+* Bonnes pratiques concernant la gestion de la mémoire.
 
 🇺🇸
 
@@ -18,10 +18,10 @@ This project consists of recoding some functions from the standard C library, as
 
 The code must respect the Norm imposed by 42 (see pdf).
 
-__Acquired skills__ :
+__Important concepts__ :
 
-* Understanding of C standard library functions and how to implement them
-* How a Makefile works
-* Memory management best practices
+* Understanding of C standard library functions and how to implement them.
+* How a Makefile works.
+* Memory management best practices.
 
 ![rating](rating.png)
