@@ -24,4 +24,6 @@ __Notions importantes__ :
 * Fonctionnement d’un Makefile.
 * Bonnes pratiques concernant la gestion de la mémoire.
 
+
+
 ![rating](rating.png)
